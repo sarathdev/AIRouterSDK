@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		38D5EBCB2D534A4600F60DD5 /* AIRouterSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38D5EBC02D534A4600F60DD5 /* AIRouterSDK.framework */; };
-		38D5EBE22D534B2000F60DD5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 38D5EBE12D534B2000F60DD5 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,7 +23,6 @@
 /* Begin PBXFileReference section */
 		38D5EBC02D534A4600F60DD5 /* AIRouterSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AIRouterSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D5EBCA2D534A4600F60DD5 /* AIRouterSDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AIRouterSDKTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		38D5EBE12D534B2000F60DD5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -75,7 +73,6 @@
 		38D5EBB62D534A4500F60DD5 = {
 			isa = PBXGroup;
 			children = (
-				38D5EBE12D534B2000F60DD5 /* README.md */,
 				38D5EBC22D534A4600F60DD5 /* AIRouterSDK */,
 				38D5EBCE2D534A4600F60DD5 /* AIRouterSDKTests */,
 				38D5EBC12D534A4600F60DD5 /* Products */,
@@ -193,7 +190,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38D5EBE22D534B2000F60DD5 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
