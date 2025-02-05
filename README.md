@@ -148,4 +148,4 @@ AIRouterSDK is available under the MIT license. See the [LICENSE](LICENSE) file 
 
 ---
 
-Made with ❤️ by [Sarath Sasi]
+Made with ❤️ by Sarath Sasi (https://www.linkedin.com/in/sarath-sasi-ios/)
