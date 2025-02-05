@@ -114,64 +114,6 @@
             endingLineNumber = "24"
             landmarkName = "testSendPrompt()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - 9559f7f5936407de"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - 5919a5e0bb9dec1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(2) await resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - d9167969ee72c3dc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - d4c82f9bfe9ceddb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -188,64 +130,6 @@
             endingLineNumber = "25"
             landmarkName = "testSendPrompt()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - 9559f7f5936407de"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - 5919a5e0bb9dec1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(2) await resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - d9167969ee72c3dc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-               <Location
-                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - d4c82f9bfe9ceddb"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
-                  moduleName = "AIRouterSDKTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "25"
-                  endingLineNumber = "25">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
