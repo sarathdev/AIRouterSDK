@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4BD37920-36B7-479D-86CA-109A28D0A199"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41C9ABBC-9FF0-43DB-A812-DCA42B289E0C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDKTests/AIRouterSDKTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testSendPrompt()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25E2D2C5-3873-4D98-BFFE-79584DBBD3F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDKTests/AIRouterSDKTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testSendPrompt()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1A164C-B594-4D54-AE85-4EED3FD78E41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDK/AIRouterClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "sendPrompt(_:model:temperature:maxTokens:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29B38E78-F699-42CB-B2D8-71E317705C91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDK/AIRouterClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "sendPrompt(_:model:temperature:maxTokens:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1358EE49-9B71-4A52-A3A7-A78154093051"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDK/AIRouterClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "sendPrompt(_:model:temperature:maxTokens:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "176FBFDC-97D7-474E-A9E6-C7CA1B137AAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDK/AIRouterClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "sendPrompt(_:model:temperature:maxTokens:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDKTests/AIRouterSDKTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "testSendPrompt()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - 9559f7f5936407de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - 5919a5e0bb9dec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - d9167969ee72c3dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "38A4F8A1-E4E1-4158-BEEF-F8332C6BFCE3 - d4c82f9bfe9ceddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65186519-9458-4A2C-8D45-72576A4C7D00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIRouterSDKTests/AIRouterSDKTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "testSendPrompt()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - 9559f7f5936407de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - 5919a5e0bb9dec1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - d9167969ee72c3dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+               <Location
+                  uuid = "65186519-9458-4A2C-8D45-72576A4C7D00 - d4c82f9bfe9ceddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for AIRouterSDKTests.AIRouterTests.testSendPrompt() async throws -&gt; ()"
+                  moduleName = "AIRouterSDKTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/107654/Documents/GitHub/AIRouterSDK/AIRouterSDK/AIRouterSDKTests/AIRouterSDKTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
