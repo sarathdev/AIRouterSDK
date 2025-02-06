@@ -144,7 +144,7 @@ AIRouterSDK is available under the MIT license. See the [LICENSE](LICENSE) file 
 
 ## Contact
 - Sarath Sasi sskumbalath@gmail.com
-- Project Link: [https://github.com/sarathdev/AIRouterSDK/tree/main/AIRouterSDK/AIRouterSDK)
+- Project Link: https://github.com/sarathdev/AIRouterSDK
 
 ---
 
