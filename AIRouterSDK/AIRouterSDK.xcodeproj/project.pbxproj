@@ -21,7 +21,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		38CFC9292D5360E000A07227 /* CoreMediaIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMediaIO.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk/System/Library/Frameworks/CoreMediaIO.framework; sourceTree = DEVELOPER_DIR; };
 		38D5EBC02D534A4600F60DD5 /* AIRouterSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AIRouterSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D5EBCA2D534A4600F60DD5 /* AIRouterSDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AIRouterSDKTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -74,7 +73,6 @@
 		38CFC9282D5360E000A07227 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				38CFC9292D5360E000A07227 /* CoreMediaIO.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
