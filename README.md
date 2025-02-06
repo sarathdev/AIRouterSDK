@@ -20,7 +20,7 @@ AIRouterSDK is a lightweight and powerful iOS SDK that provides seamless integra
 
 ### Swift Package Manager (SPM)
 1. In Xcode, go to **File** > **Add Packages**
-2. Enter package URL: `https://github.com/yourusername/AIRouterSDK.git`
+2. Enter package URL: `https://github.com/sarathdev/AIRouterSDK`
 3. Choose the version you want to use
 4. Click **Add Package**
 
