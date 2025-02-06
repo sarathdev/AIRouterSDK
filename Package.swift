@@ -20,12 +20,12 @@ let package = Package(
         .target(
             name: "AIRouterSDK",
             dependencies: [],
-            path: "Sources" 
+            path: "Sources/AIRouterSDK"
         ),
         .testTarget(
             name: "AIRouterSDKTests",
             dependencies: ["AIRouterSDK"],
-            path: "Tests" 
+            path: "Tests/AIRouterSDKTests"
         )
     ]
 )
